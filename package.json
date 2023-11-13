@@ -1,9 +1,11 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "dev-toolbelt",
+  "owner": "g4rcez",
   "title": "Dev Toolbelt",
   "description": "Set of great tools to improve your developer experience",
   "icon": "command-icon.png",
+  "access": "public",
   "author": "g4rcez",
   "categories": [
     "Productivity"
