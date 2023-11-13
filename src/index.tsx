@@ -1,5 +1,5 @@
-import { Form, ActionPanel, Action, showToast } from "@raycast/api";
-import React, { useState, lazy } from "react";
+import { Action, ActionPanel, Form } from "@raycast/api";
+import React, { lazy, useState } from "react";
 
 const imports = [
   {

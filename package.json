@@ -9,9 +9,6 @@
     "Productivity"
   ],
   "license": "MIT",
-  "contributors": [
-    "g4rcez"
-  ],
   "keywords": ["Toolbelt", "Dev Utils"],
   "commands": [
     {
@@ -31,7 +28,7 @@
     {
       "name": "encodeBase64",
       "subtitle": "Dev Toolbelt",
-      "title": "Encode text to Base64",
+      "title": "Encode Text to Base64",
       "description": "Encode text to base64",
       "mode": "view"
     }
